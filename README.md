@@ -3,7 +3,7 @@ Tool This code is a web crawler implemented in Python using the BeautifulSoup li
 
 # Installation
 ```
-https://github.com/XJOKZVO/clip.git
+git clone https://github.com/XJOKZVO/clip.git
 cd clip
 pip install -r requirements.txt
 python clip.py
